@@ -1,0 +1,10 @@
+{
+    "name": "Workshop",
+    "description": "Examples for the async workshop held in Oradea, May 12",
+    "scripts": {},
+    "dependencies": {
+        "async": "2.4.*"
+    },
+    "license": "",
+    "repository": ""
+}
